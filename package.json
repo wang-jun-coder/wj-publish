@@ -1,5 +1,5 @@
 {
-  "name": "publish",
+  "name": "wj-publish",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "cov": "nyc npm run test"
   },
   "author": "wang-jun-coder",
-  "resolutions": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/wang-jun-coder/wj-publish.git"
   },
