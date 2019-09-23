@@ -1,5 +1,5 @@
 # wj-publish
-upload local files to linux server and exec commonds
+upload local files to linux server and exec commands
 
 ## 使用说明
 
